@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my future projects
 - 📫 How to reach me ...
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm thinking friendly
+- ⚡ Fun fact: I'm friendly
 
 <!---
 Aarav-BOSS/Aarav-BOSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
